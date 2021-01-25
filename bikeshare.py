@@ -68,7 +68,6 @@ def load_data(city, month, day):
 
 
 df = load_data("chicago", "march", "friday")
-df
 
 
 # In[ ]:
