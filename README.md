@@ -1,15 +1,12 @@
-### Date created
-Include the date you created this project and README file.
+January 25, 2021
 
-### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
+It allows the user to calculet statistica to filter the data.
 
-### Description
-Describe what your project is about and what it does
+List of files used:
+ bikeshare.py, chicago.csv, new_york_city.csv, wahington.csv 
 
-### Files used
-Include the files used
+List of web site used for the project:
+ https://classroom.udacity.com/me, www.pythonfor beginners.com, www.github.com
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
