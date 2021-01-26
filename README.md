@@ -14,4 +14,7 @@ January 26, 2021
 Explore US Bikeshare Data,  updated bikeshare.py by removing plots and just giving
 what the stakeholder wanted - tables.
 
+Just found our missed one key step in completing the documentation part of the project
+where I need to make two addition changes to README.md file.  I hope that this counts as 2 of 2
+
 
